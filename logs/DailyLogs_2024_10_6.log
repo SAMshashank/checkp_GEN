@@ -1,0 +1,260 @@
+1:45:39 AM | Info | 'Connected to db' | 
+1:45:39 AM | Info | 'Socket setup successful' | 
+1:45:39 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:48:13 AM | Info | 'Connected to db' | 
+1:48:13 AM | Info | 'Socket setup successful' | 
+1:48:13 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:48:30 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:48:30 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:48:31 AM | Error | 'Error in router room /createRoom' | Service: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined | 
+1:50:03 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:50:03 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:52:38 AM | Error | 'Error in router room /setroom' | Service: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined | 
+1:53:40 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:53:40 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:55:07 AM | Error | 'Error in router room /createRoom' | Service: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined | 
+1:55:13 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:55:13 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:56:01 AM | Error | 'Error in router room /setroom' | Service: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined | 
+1:58:49 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+1:58:49 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:06:13 AM | Info | 'Connected to db' | 
+2:06:13 AM | Info | 'Socket setup successful' | 
+2:06:13 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+2:06:19 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:06:20 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:06:33 AM | Error | 'Error in router room /setroom' | Service: TypeError [ERR_INVALID_ARG_TYPE]: The "key" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, DataView, KeyObject, or CryptoKey. Received undefined | 
+2:08:55 AM | Error | 'Error in router room /setroom' | Service: TypeError [ERR_INVALID_ARG_TYPE]: The "key" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, DataView, KeyObject, or CryptoKey. Received undefined | 
+2:09:23 AM | Info | 'Connected to db' | 
+2:09:23 AM | Info | 'Socket setup successful' | 
+2:09:23 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+2:09:27 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:09:27 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:12:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+2:12:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+2:22:12 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:22:12 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:30:19 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('670257e5630624030f136489'),
+  name: 'Yohoho',
+  email: 'hananaka@gmail.com',
+  password: '$2a$10$BT6gbSKXjrTvMMrDc/Imd.Rx.OXniwKj3ckCh6cy/6u2L1U6CTePi',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Uwiwow',
+  walletAddress: '0xee6569ead26',
+  __v: 0
+} | 
+2:30:19 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('670257e5630624030f136489'),
+  name: 'Yohoho',
+  email: 'hananaka@gmail.com',
+  password: '$2a$10$BT6gbSKXjrTvMMrDc/Imd.Rx.OXniwKj3ckCh6cy/6u2L1U6CTePi',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Uwiwow',
+  walletAddress: '0xee6569ead26',
+  __v: 0
+} | 
+2:31:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+2:31:52 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 

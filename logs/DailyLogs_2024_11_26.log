@@ -1,0 +1,157 @@
+4:35:32 AM | Info | 'Connected to db' | 
+4:35:32 AM | Info | 'Socket setup successful' | 
+4:35:32 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:36:50 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:36:50 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:36:54 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 
+4:36:54 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 
+4:40:47 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6745c1cd6ffedd3bd2b37323'),
+  name: 'fish',
+  email: 'ritika.kumari@fsd.com',
+  password: '$2a$10$ekaRGTRadlnNlWKMiL1xmOAmJu7YaIuG4sI/Vqfa8uH.r1wQzMCFq',
+  gender: 'female',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'XsD',
+  walletAddress: '0xb0bbb82d9a092',
+  __v: 0
+} | 
+4:40:47 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6745c1cd6ffedd3bd2b37323'),
+  name: 'fish',
+  email: 'ritika.kumari@fsd.com',
+  password: '$2a$10$ekaRGTRadlnNlWKMiL1xmOAmJu7YaIuG4sI/Vqfa8uH.r1wQzMCFq',
+  gender: 'female',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'XsD',
+  walletAddress: '0xb0bbb82d9a092',
+  __v: 0
+} | 
+4:41:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6745c1cd6ffedd3bd2b37323'),
+  name: 'fish',
+  email: 'ritika.kumari@fsd.com',
+  password: '$2a$10$ekaRGTRadlnNlWKMiL1xmOAmJu7YaIuG4sI/Vqfa8uH.r1wQzMCFq',
+  gender: 'female',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'XsD',
+  walletAddress: '0xb0bbb82d9a092',
+  __v: 0
+} | 
+4:41:49 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6745c1cd6ffedd3bd2b37323'),
+  name: 'fish',
+  email: 'ritika.kumari@fsd.com',
+  password: '$2a$10$ekaRGTRadlnNlWKMiL1xmOAmJu7YaIuG4sI/Vqfa8uH.r1wQzMCFq',
+  gender: 'female',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'XsD',
+  walletAddress: '0xb0bbb82d9a092',
+  __v: 0
+} | 
+4:45:06 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6736eebc84f075e5b82fabe2'),
+  name: 'Dheeru',
+  email: 'dhe@gmai.com',
+  password: '$2a$10$GkB0bnn3ohb0f7O16M7n1eUlXJkWWoRXLVg/q6DtGHaXkeP4fQEUm',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Hi I am a SDE!',
+  walletAddress: '',
+  __v: 0
+} | 
+4:45:06 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6736eebc84f075e5b82fabe2'),
+  name: 'Dheeru',
+  email: 'dhe@gmai.com',
+  password: '$2a$10$GkB0bnn3ohb0f7O16M7n1eUlXJkWWoRXLVg/q6DtGHaXkeP4fQEUm',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Hi I am a SDE!',
+  walletAddress: '',
+  __v: 0
+} | 
+4:49:37 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6745c1cd6ffedd3bd2b37323'),
+  name: 'fish',
+  email: 'ritika.kumari@fsd.com',
+  password: '$2a$10$ekaRGTRadlnNlWKMiL1xmOAmJu7YaIuG4sI/Vqfa8uH.r1wQzMCFq',
+  gender: 'female',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'XsD',
+  walletAddress: '0xb0bbb82d9a092',
+  __v: 0
+} | 
+4:49:37 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6745c1cd6ffedd3bd2b37323'),
+  name: 'fish',
+  email: 'ritika.kumari@fsd.com',
+  password: '$2a$10$ekaRGTRadlnNlWKMiL1xmOAmJu7YaIuG4sI/Vqfa8uH.r1wQzMCFq',
+  gender: 'female',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'XsD',
+  walletAddress: '0xb0bbb82d9a092',
+  __v: 0
+} | 
+4:52:49 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:52:49 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 

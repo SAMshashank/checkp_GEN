@@ -1,0 +1,25 @@
+10:34:39 PM | Info | 'Socket setup successful' | 
+10:34:39 PM | Info | 'Connected to db' | 
+10:34:39 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+10:35:56 PM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 
+10:35:56 PM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 

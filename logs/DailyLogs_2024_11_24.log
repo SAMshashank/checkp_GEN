@@ -1,0 +1,1265 @@
+3:07:41 AM | Info | 'Connected to db' | 
+3:07:41 AM | Info | 'Socket setup successful' | 
+3:07:41 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+3:07:50 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+3:07:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+3:09:11 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+3:09:11 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+3:11:56 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+3:11:56 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+3:50:34 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+3:50:34 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+3:50:40 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+3:50:40 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+3:50:43 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+3:50:43 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+3:55:43 AM | Info | 'Connected to db' | 
+3:55:43 AM | Info | 'Socket setup successful' | 
+3:55:43 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:07:01 AM | Info | 'Connected to db' | 
+4:07:01 AM | Info | 'Socket setup successful' | 
+4:07:01 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:07:05 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:07:05 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:07:08 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:07:08 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:07:15 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:07:15 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:07:27 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:07:27 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:07:29 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+4:07:29 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+4:08:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:08:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:16:09 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:16:09 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+4:16:27 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+4:16:27 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+4:16:41 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:16:41 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:20:13 AM | Info | 'Connected to db' | 
+4:20:13 AM | Info | 'Socket setup successful' | 
+4:20:13 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:21:31 AM | Info | 'Connected to db' | 
+4:21:31 AM | Info | 'Socket setup successful' | 
+4:21:31 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:22:46 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+4:22:46 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+4:29:04 AM | Info | 'Connected to db' | 
+4:29:04 AM | Info | 'Socket setup successful' | 
+4:29:04 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:32:42 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:32:42 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:19:35 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:19:35 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:19:55 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:19:55 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:20:00 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:20:00 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:20:11 AM | Info | 'Connected to db' | 
+5:20:11 AM | Info | 'Socket setup successful' | 
+5:20:11 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+5:20:23 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+5:20:24 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+5:20:26 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:20:26 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:20:29 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:20:29 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:23:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+5:23:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+5:23:47 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:23:47 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:23:50 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:23:50 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:24:09 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:24:09 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+5:24:09 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:26:16 AM | Info | 'Connected to db' | 
+5:26:16 AM | Info | 'Socket setup successful' | 
+5:26:16 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+5:26:38 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+5:26:38 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+5:26:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:26:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+5:26:46 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:26:46 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:26:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:26:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:26:56 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+5:26:56 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+7:48:54 AM | Info | 'Connected to db' | 
+7:48:54 AM | Info | 'Socket setup successful' | 
+7:48:54 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+7:50:06 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+7:50:06 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:00:21 AM | Info | 'Connected to db' | 
+8:00:21 AM | Info | 'Socket setup successful' | 
+8:00:21 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:02:53 AM | Info | 'Connected to db' | 
+8:02:53 AM | Info | 'Socket setup successful' | 
+8:02:53 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:03:23 AM | Info | 'Connected to db' | 
+8:03:23 AM | Info | 'Socket setup successful' | 
+8:03:23 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:04:52 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:04:52 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:10:38 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:10:38 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:10:50 AM | Info | 'Connected to db' | 
+8:10:50 AM | Info | 'Socket setup successful' | 
+8:10:51 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:12:29 AM | Info | 'Connected to db' | 
+8:12:29 AM | Info | 'Socket setup successful' | 
+8:12:29 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:13:08 AM | Info | 'Connected to db' | 
+8:13:08 AM | Info | 'Socket setup successful' | 
+8:13:08 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:14:01 AM | Info | 'Connected to db' | 
+8:14:01 AM | Info | 'Socket setup successful' | 
+8:14:01 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:16:19 AM | Info | 'Connected to db' | 
+8:16:19 AM | Info | 'Socket setup successful' | 
+8:16:19 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:16:49 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+8:16:49 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+8:17:09 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:17:09 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:17:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:17:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:18:15 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:18:15 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:18:42 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:18:42 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:23:25 AM | Info | 'Connected to db' | 
+8:23:25 AM | Info | 'Socket setup successful' | 
+8:23:25 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:23:36 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:23:36 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:23:38 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+8:23:38 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+8:23:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:23:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:23:58 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:23:58 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:26:22 AM | Info | 'Socket setup successful' | 
+8:26:22 AM | Info | 'Connected to db' | 
+8:26:22 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:35:23 AM | Info | 'Connected to db' | 
+8:35:23 AM | Info | 'Socket setup successful' | 
+8:35:23 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+8:35:45 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:35:45 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+8:36:26 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+8:36:26 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67430955683d95a6d0f26773'),
+  name: 'wqsdqw',
+  email: 'abcd@gmail.com',
+  password: '$2a$10$dHiFiiId2nWIU6Fd7V1VCOYPWdQ9sqcpDfipr1w/sEZRH06MuKaHG',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'wdsqwwq',
+  walletAddress: '0xdeb1fc14bf6af',
+  __v: 0
+} | 
+8:37:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+8:37:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('673645dcb8e8ca0c66f7454f'),
+  name: 'sdsdsd',
+  email: 's@gmail.com',
+  password: '$2a$10$crEmFlITe/PqCzqh1NLITuH/Mf84VHHFAW7XKcfE12CLFvdSx.tU6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsdsadas',
+  walletAddress: '0x44b1dcc128d84',
+  __v: 0
+} | 
+9:56:06 AM | Info | 'Connected to db' | 
+9:56:06 AM | Info | 'Socket setup successful' | 
+9:56:06 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+9:56:24 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+9:56:24 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+10:08:41 AM | Info | 'Connected to db' | 
+10:08:41 AM | Info | 'Socket setup successful' | 
+10:08:41 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+10:13:26 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+10:13:26 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+10:14:19 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 
+10:14:19 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 
+10:15:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+10:15:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+10:15:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 
+10:15:48 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67436cf9761e053205c78c5c'),
+  name: 'saj',
+  email: 'dam@gmail.com',
+  password: '$2a$10$/O4lAw9hU0vs3EpfGf/7Q.9RQi74hHOq1E.8GU7PzBnzG77fEoKI.',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'adqd',
+  walletAddress: '0x9a9e81eacfac2',
+  __v: 0
+} | 
+10:17:53 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6718dfd4d0db71b629d12c5f'),
+  name: 'Sam',
+  email: 'sam@gmail.com',
+  password: '$2a$10$XkTAOUQLJW4QqYoZ.kokl.YVwkDzts.fkM6fc8j5FNzcmpFu3/AAy',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Hshshs',
+  walletAddress: '',
+  __v: 0
+} | 
+10:17:53 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6718dfd4d0db71b629d12c5f'),
+  name: 'Sam',
+  email: 'sam@gmail.com',
+  password: '$2a$10$XkTAOUQLJW4QqYoZ.kokl.YVwkDzts.fkM6fc8j5FNzcmpFu3/AAy',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Hshshs',
+  walletAddress: '',
+  __v: 0
+} | 
+10:19:54 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6718dfd4d0db71b629d12c5f'),
+  name: 'Sam',
+  email: 'sam@gmail.com',
+  password: '$2a$10$XkTAOUQLJW4QqYoZ.kokl.YVwkDzts.fkM6fc8j5FNzcmpFu3/AAy',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Hshshs',
+  walletAddress: '',
+  __v: 0
+} | 
+10:19:54 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6718dfd4d0db71b629d12c5f'),
+  name: 'Sam',
+  email: 'sam@gmail.com',
+  password: '$2a$10$XkTAOUQLJW4QqYoZ.kokl.YVwkDzts.fkM6fc8j5FNzcmpFu3/AAy',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'Hshshs',
+  walletAddress: '',
+  __v: 0
+} | 

@@ -1,0 +1,123 @@
+8:11:43 AM | Info | 'Socket setup successful' | 
+8:11:43 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:24:11 AM | Info | 'Socket setup successful' | 
+11:24:11 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:29:30 AM | Info | 'Socket setup successful' | 
+11:29:30 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:32:36 AM | Info | 'Socket setup successful' | 
+11:32:36 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:32:42 AM | Info | 'Socket setup successful' | 
+11:32:42 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:33:20 AM | Info | 'Socket setup successful' | 
+11:33:20 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:33:26 AM | Info | 'Socket setup successful' | 
+11:33:26 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:37:34 AM | Info | 'Socket setup successful' | 
+11:37:34 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:52:53 AM | Info | 'Socket setup successful' | 
+11:52:53 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:55:55 AM | Info | 'Socket setup successful' | 
+11:55:55 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:56:47 AM | Info | 'Socket setup successful' | 
+11:56:47 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+11:57:52 AM | Info | 'Socket setup successful' | 
+11:57:52 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:00:13 PM | Info | 'Socket setup successful' | 
+12:00:13 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:00:51 PM | Info | 'Socket setup successful' | 
+12:00:51 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:03:27 PM | Info | 'Socket setup successful' | 
+12:03:27 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:17:02 PM | Info | 'Socket setup successful' | 
+12:17:02 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:26:00 PM | Info | 'Socket setup successful' | 
+12:26:00 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:26:12 PM | Info | 'Socket setup successful' | 
+12:26:12 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:27:18 PM | Info | 'Socket setup successful' | 
+12:27:18 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:27:27 PM | Info | 'Socket setup successful' | 
+12:27:27 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:27:37 PM | Info | 'Socket setup successful' | 
+12:27:37 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:29:05 PM | Info | 'Socket setup successful' | 
+12:29:05 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:31:52 PM | Info | 'Socket setup successful' | 
+12:31:52 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:32:05 PM | Info | 'Socket setup successful' | 
+12:32:05 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:36:49 PM | Error | 'Unable to connect to db' | Service: TypeError: connectToMongoose is not a function | 
+12:36:49 PM | Info | 'Socket setup successful' | 
+12:36:49 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:37:25 PM | Error | 'Unable to connect to db' | Service: TypeError: connectToMongoose is not a function | 
+12:37:25 PM | Info | 'Socket setup successful' | 
+12:37:25 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:40:00 PM | Info | 'Connected to db' | 
+12:40:00 PM | Info | 'Socket setup successful' | 
+12:40:00 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:41:51 PM | Info | 'Connected to db' | 
+12:41:51 PM | Info | 'Socket setup successful' | 
+12:41:51 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:42:24 PM | Info | 'Connected to db' | 
+12:42:24 PM | Info | 'Socket setup successful' | 
+12:42:24 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:45:18 PM | Info | 'Connected to db' | 
+12:45:18 PM | Info | 'Socket setup successful' | 
+12:45:18 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:45:33 PM | Info | 'Connected to db' | 
+12:45:33 PM | Info | 'Socket setup successful' | 
+12:45:33 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:48:29 PM | Info | 'Connected to db' | 
+12:48:29 PM | Info | 'Socket setup successful' | 
+12:48:29 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:49:08 PM | Info | 'Connected to db' | 
+12:49:08 PM | Info | 'Socket setup successful' | 
+12:49:08 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:50:12 PM | Info | 'Connected to db' | 
+12:50:12 PM | Info | 'Socket setup successful' | 
+12:50:12 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:50:26 PM | Info | 'Connected to db' | 
+12:50:26 PM | Info | 'Socket setup successful' | 
+12:50:26 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:51:32 PM | Info | 'Connected to db' | 
+12:51:32 PM | Info | 'Socket setup successful' | 
+12:51:32 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:52:22 PM | Info | 'Connected to db' | 
+12:52:22 PM | Info | 'Socket setup successful' | 
+12:52:22 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:55:25 PM | Info | 'Connected to db' | 
+12:55:25 PM | Info | 'Socket setup successful' | 
+12:55:25 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:55:38 PM | Info | 'Connected to db' | 
+12:55:38 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+12:55:38 PM | Info | 'Socket setup successful' | 
+12:59:35 PM | Info | 'Connected to db' | 
+12:59:35 PM | Info | 'Socket setup successful' | 
+12:59:35 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:02:31 PM | Info | 'Connected to db' | 
+1:02:31 PM | Info | 'Socket setup successful' | 
+1:02:31 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:07:08 PM | Info | 'Connected to db' | 
+1:07:08 PM | Info | 'Socket setup successful' | 
+1:07:08 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:17:49 PM | Info | 'Connected to db' | 
+1:17:49 PM | Info | 'Socket setup successful' | 
+1:17:49 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:19:01 PM | Info | 'Connected to db' | 
+1:19:01 PM | Info | 'Socket setup successful' | 
+1:19:01 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:31:10 PM | Info | 'Connected to db' | 
+1:31:10 PM | Info | 'Socket setup successful' | 
+1:31:10 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:33:34 PM | Info | 'Connected to db' | 
+1:33:34 PM | Info | 'Socket setup successful' | 
+1:33:34 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:35:54 PM | Info | 'Connected to db' | 
+1:35:54 PM | Info | 'Socket setup successful' | 
+1:35:54 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+1:42:31 PM | Info | 'Connected to db' | 
+1:42:31 PM | Info | 'Socket setup successful' | 
+1:42:31 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+10:47:22 PM | Info | 'Connected to db' | 
+10:47:22 PM | Info | 'Socket setup successful' | 
+10:47:22 PM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 

@@ -1,0 +1,6 @@
+2:39:41 AM | Info | 'Connected to db' | 
+2:39:41 AM | Info | 'Socket setup successful' | 
+2:39:41 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+2:40:58 AM | Error | 'User Not Found' | Service: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms | 
+2:40:59 AM | Error | 'Error in router room /createRoom' | Service: MongooseError: Operation `rooms.aggregate()` buffering timed out after 10000ms | 
+2:41:08 AM | Error | 'User Not Found' | Service: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms | 

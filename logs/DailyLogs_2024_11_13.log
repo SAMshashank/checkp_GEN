@@ -1,0 +1,377 @@
+5:57:54 AM | Info | 'Connected to db' | 
+5:57:54 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+5:57:54 AM | Info | 'Socket setup successful' | 
+6:00:43 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:00:43 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:01:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:01:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:01:53 AM | Error | 'Error in router room /setroom' | Service: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Room" | 
+6:02:07 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:02:07 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:02:09 AM | Error | 'Error in router room /setroom' | Service: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Room" | 
+6:02:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:02:22 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:02:24 AM | Error | 'Error in router room /setroom' | Service: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Room" | 
+6:02:30 AM | Error | 'Error in router room /setroom' | Service: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Room" | 
+6:03:36 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:03:36 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:03:37 AM | Error | 'Error in router room /setroom' | Service: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Room" | 
+6:03:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:03:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:03:53 AM | Error | 'Error in router room /setroom' | Service: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Room" | 
+6:06:12 AM | Info | 'Connected to db' | 
+6:06:12 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+6:06:12 AM | Info | 'Socket setup successful' | 
+6:06:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:06:51 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:06:55 AM | Error | 'Error in router room /setroom' | Service: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Room" | 
+6:07:15 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:07:15 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:08:44 AM | Info | 'Connected to db' | 
+6:08:44 AM | Info | 'Socket setup successful' | 
+6:08:44 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+6:08:53 AM | Info | 'Connected to db' | 
+6:08:53 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+6:08:53 AM | Info | 'Socket setup successful' | 
+6:08:59 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:08:59 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:09:36 AM | Info | 'Connected to db' | 
+6:09:36 AM | Info | 'Socket setup successful' | 
+6:09:36 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+6:09:40 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:09:40 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:09:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:09:44 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:09:45 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:09:46 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('6734b12a14469bc2979244d8'),
+  name: 'Afr',
+  email: 'asdjah@gmail.com',
+  password: '$2a$10$ffCqiK5TrksaIv3fhcTMu.nV71YnHDHBZrTVaP3uy1fdwfOnG980G',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dhsdiuwegfw',
+  walletAddress: '0x465b86c1fa01',
+  __v: 0
+} | 
+6:10:11 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:10:11 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:11:19 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:11:19 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:13:36 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:13:36 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+6:19:09 AM | Info | 'Connected to db' | 
+6:19:09 AM | Info | 'Socket setup successful' | 
+6:19:09 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+9:38:35 PM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 
+9:38:35 PM | Info | 'User Found' | Service: {
+  _id: new ObjectId('67025473630624030f136416'),
+  name: 'sdsd',
+  email: 'rivu@gmail.com',
+  password: '$2a$10$y4xdx5.dWcIPuqEUCnspXevnQHXuWzaosansxaWrRUxN6ENo4r/em',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'sdsds',
+  walletAddress: '0xbd665cc29e7b7',
+  __v: 0
+} | 

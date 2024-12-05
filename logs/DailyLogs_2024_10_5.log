@@ -1,0 +1,86 @@
+3:10:35 AM | Info | 'Connected to db' | 
+3:10:35 AM | Info | 'Socket setup successful' | 
+3:11:06 AM | Info | 'Socket setup successful' | 
+3:11:06 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+3:11:06 AM | Info | 'Connected to db' | 
+3:13:10 AM | Info | 'Connected to db' | 
+3:13:10 AM | Info | 'Socket setup successful' | 
+3:13:10 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:05:34 AM | Info | 'Connected to db' | 
+4:05:34 AM | Info | 'Socket setup successful' | 
+4:05:34 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:18:12 AM | Info | 'Connected to db' | 
+4:18:12 AM | Info | 'Socket setup successful' | 
+4:18:12 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:18:45 AM | Info | 'Connected to db' | 
+4:18:45 AM | Info | 'Socket setup successful' | 
+4:18:45 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:24:54 AM | Info | 'Connected to db' | 
+4:24:54 AM | Info | 'Socket setup successful' | 
+4:24:54 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:26:40 AM | Info | 'Connected to db' | 
+4:26:40 AM | Info | 'Socket setup successful' | 
+4:26:40 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:27:02 AM | Error | 'User Not Found' | Service: CastError: Cast to ObjectId failed for value "{ id: '66f1d037932d920297fe12e4' }" (type Object) at path "_id" for model "user" | 
+4:30:40 AM | Info | 'Connected to db' | 
+4:30:40 AM | Info | 'Socket setup successful' | 
+4:30:40 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:31:15 AM | Info | 'Connected to db' | 
+4:31:15 AM | Info | 'Socket setup successful' | 
+4:31:15 AM | Info | '> Ready on XXXXXXXXXXXXXXXX:3000' | 
+4:31:33 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:32:18 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:34:53 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:34:55 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:34:55 AM | Info | 'User Found' | Service: {
+  _id: new ObjectId('66f1d037932d920297fe12e4'),
+  name: 'sdsdfdsfcs',
+  email: 'admin@gmail.com',
+  password: '$2a$10$1NPeuLr.xvHiengYKiDA3eyEQUarC0klP86UXwHqUbQ2szY0J8Ks6',
+  gender: 'male',
+  avatar: '/placeholder.svg?height=50&width=50',
+  description: 'dfscdsfsds',
+  walletAddress: '0x0bed9dec13936',
+  __v: 0
+} | 
+4:35:04 AM | Error | 'Error in router room /setroom' | Service: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined | 
