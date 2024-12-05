@@ -37,7 +37,12 @@ function Avatar({
       const validRotation =
         rotation instanceof Euler
           ? rotation
-          : new Euler(rotation._x, rotation._y, rotation._z, rotation._order);
+          : new Euler(
+            (rotation as any)._x ,
+            (rotation as any)._y ,
+            (rotation as any)._z,
+            (rotation as any)._order
+          );
 
       gesturesAndMotionData.push({
         rotation: validRotation.clone(),
